@@ -2,11 +2,11 @@
   "name": "smart-agriculture-backend",
   "version": "1.0.0",
   "description": "Backend server for Smart Agriculture IoT System",
-  "main": "server.js",
+  "main": "Untitled-1.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "Untitled-1.js"
   },
-  "author": "Your Name",
+  "author": "anas",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.6.8",
